@@ -1,0 +1,93 @@
+<root>
+	<Day>Вторник</Day>
+	<Lesson>
+		<Time_Week>
+			<Time>08:20-09:50</Time>
+			<Week>5</Week>
+		</Time_Week>
+		<Room_Building>
+			<Room></Room>
+			<Building></Building>
+		</Room_Building>
+		<Class_Teacher>
+			<Class>Информатика(Лек): ZOOM</Class>
+			<Teacher>Балакшин Павел Валерьевич</Teacher>
+			<Format>Дистанционный</Format>
+		</Class_Teacher>
+	</Lesson>
+	<Lesson>
+		<Time_Week>
+			<Time>08:20-09:50</Time>
+			<Week>3, 7, 9, 11, 13, 15, 17</Week>
+		</Time_Week>
+		<Room_Building>
+			<Room></Room>
+			<Building>ул.Ломоносова, д.9, лит. М</Building>
+		</Room_Building>
+		<Class_Teacher>
+			<Class>Информатика(Лек): Актовый зал</Class>
+			<Teacher>Балакшин Павел Валерьевич</Teacher>
+			<Format>Очно - дистанционный</Format>
+		</Class_Teacher>
+	</Lesson>
+	<Lesson>
+		<Time_Week>
+			<Time>10:00-11:30</Time>
+			<Week>5</Week>
+		</Time_Week>
+		<Room_Building>
+			<Room></Room>
+			<Building></Building>
+		</Room_Building>
+		<Class_Teacher>
+			<Class>Основы профессиональной деятельности(Лек): ZOOM</Class>
+			<Teacher>Клименков Сергей Викторович</Teacher>
+			<Format>Дистанционный</Format>
+		</Class_Teacher>
+	</Lesson>
+	<Lesson>
+		<Time_Week>
+			<Time>10:00-11:30</Time>
+			<Week>3, 7, 9, 11, 13, 15, 17</Week>
+		</Time_Week>
+		<Room_Building>
+			<Room></Room>
+			<Building>ул.Ломоносова, д.9, лит. М</Building>
+		</Room_Building>
+		<Class_Teacher>
+			<Class>Основы профессиональной деятельности(Лек): Актовый зал</Class>
+			<Teacher>Клименков Сергей Викторович</Teacher>
+			<Format>Очно - дистанционный</Format>
+		</Class_Teacher>
+	</Lesson>
+	<Lesson>
+		<Time_Week>
+			<Time>11:40-13:10</Time>
+			<Week>5</Week>
+		</Time_Week>
+		<Room_Building>
+			<Room></Room>
+			<Building></Building>
+		</Room_Building>
+		<Class_Teacher>
+			<Class>Программирование(Лек): ZOOM</Class>
+			<Teacher>Письмак Алексей Евгеньевич</Teacher>
+			<Format>Дистанционный</Format>
+		</Class_Teacher>
+	</Lesson>
+	<Lesson>
+		<Time_Week>
+			<Time>11:40-13:10</Time>
+			<Week>3, 5, 7, 9, 11, 13, 15, 17</Week>
+		</Time_Week>
+		<Room_Building>
+			<Room>1223 ауд.</Room>
+			<Building>ул.Ломоносова, д.9, лит. М</Building>
+		</Room_Building>
+		<Class_Teacher>
+			<Class>Программирование(Лек)</Class>
+			<Teacher>Письмак Алексей Евгеньевич</Teacher>
+			<Format>Очно - дистанционный</Format>
+		</Class_Teacher>
+	</Lesson>
+	</root>

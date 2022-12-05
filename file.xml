@@ -1,0 +1,65 @@
+<root>
+	<Day>Понедельник</Day>
+	<Lesson>
+		<Time_Week>
+			<Time>08:20-09:50</Time>
+			<Week>3, 5, 7, 9, 11, 13, 15, 17</Week>
+		</Time_Week>
+		<Room_Building>
+			<Room>2435/4 (бывш. 431в) ауд.</Room>
+			<Building>Кронверкский пр., д.49, лит.А</Building>
+		</Room_Building>
+		<Class_Teacher>
+			<Class>Программирование(Лаб)</Class>
+			<Teacher>Письмак Алексей Евгеньевич</Teacher>
+			<Format>Очно - дистанционный </Format>
+		</Class_Teacher>
+	</Lesson>
+	<Lesson>
+		<Time_Week>
+			<Time>10:00-11:30</Time>
+			<Week>3, 5, 7, 9, 11, 13, 15, 17</Week>
+		</Time_Week>
+		<Room_Building>
+			<Room>2435/4 (бывш. 431в) ауд.</Room>
+			<Building>Кронверкский пр., д.49, лит.А</Building>
+		</Room_Building>
+		<Class_Teacher>
+			<Class>Программирование(Лаб)</Class>
+			<Teacher>Письмак Алексей Евгеньевич</Teacher>
+			<Format>Очно - дистанционный </Format>
+		</Class_Teacher>
+	</Lesson>
+	<Lesson>
+		<Time_Week>
+			<Date>26.12.22</Date>
+			<Time>15:20-16:50</Time>
+			<Week></Week>
+		</Time_Week>
+		<Room_Building>
+			<Room>2435/6 (бывш. 431д) ауд.</Room>
+			<Building>Кронверкский пр., д.49, лит.А</Building>
+		</Room_Building>
+		<Class_Teacher>
+			<Class>Информатика(Лаб)</Class>
+			<Teacher>Балакшин Павел Валерьевич</Teacher>
+			<Format>Очно - дистанционный </Format>
+		</Class_Teacher>
+	</Lesson>
+	<Lesson>
+		<Time_Week>
+			<Date>26.12.22</Date>
+			<Time>17:00-18:30</Time>
+			<Week></Week>
+		</Time_Week>
+		<Room_Building>
+			<Room>2435/6 (бывш. 431д) ауд.</Room>
+			<Building>Кронверкский пр., д.49, лит.А</Building>
+		</Room_Building>
+		<Class_Teacher>
+			<Class>Информатика(Лаб)</Class>
+			<Teacher>Балакшин Павел Валерьевич</Teacher>
+			<Format>Очно - дистанционный </Format>
+		</Class_Teacher>
+	</Lesson>
+</root>
